@@ -1,5 +1,5 @@
 {
-  "version": "20261028",
+  "version": "20261029",
   "files": [
     { "id": "turkey", "url": "trails-turkey.pmtiles", "bbox": [25.52, 35.72, 44.86, 43.07], "minzoom": 5, "maxzoom": 14 }
   ]
